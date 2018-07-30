@@ -11,9 +11,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dedce24c9abee35409a6c350d5fd3da1, type: 3}
   m_Name: GridModel
   m_EditorClassIdentifier: 
-  scale: 5
-  widthSpace: 15
-  lengthSpace: 15
-  depthSpace: 15
+  scale: 6
+  widthSpace: 40
+  lengthSpace: 40
+  depthSpace: 40
   mapPoint: {fileID: 1669640893651534, guid: d34347c45a692774fb9776be35c475c1, type: 2}
   line: {fileID: 1674619049048272, guid: db26ef6f3214c8c4fa637ba0c70e6e64, type: 2}
